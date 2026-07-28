@@ -35,4 +35,4 @@ Assembled via Roboflow: taekwondo and boxing images (~3,000 boxing images, filte
 - Roboflow
 
 ## Status
-Work in progress — science fair project. Biomechanical thresholds under validation with a sports medicine consultant.
+Work in progress — science fair project. 
